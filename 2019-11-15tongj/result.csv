@@ -1,0 +1,61 @@
+,Feature_Name,P_Value
+0,(SI_peak - SI_pre) / (SI_final - SI_pre)_min,0.01
+1,(SI_peak - SI_pre) / (SI_final - SI_pre)_max,0.002
+2,(SI_peak - SI_pre) / (SI_final - SI_pre)_mean,0.0
+3,(SI_peak - SI_pre) / (SI_final - SI_pre)_10per,0.0
+4,(SI_peak - SI_pre) / (SI_final - SI_pre)_25per,0.0
+5,(SI_peak - SI_pre) / (SI_final - SI_pre)_50per,0.0
+6,(SI_peak - SI_pre) / (SI_final - SI_pre)_75per,0.0
+7,(SI_peak - SI_pre) / (SI_final - SI_pre)_90per,0.0
+8,(SI_peak - SI_pre) / (SI_final - SI_pre)_interquartile range,0.0
+9,(SI_peak - SI_pre) / (SI_final - SI_pre)_range,0.001
+10,(SI_peak - SI_pre) / (SI_final - SI_pre)_meanAbsoluteDeviationFeatureValue,0.0
+11,(SI_peak - SI_pre) / (SI_final - SI_pre)_std,0.001
+12,(SI_peak - SI_pre) / (SI_final - SI_pre)_skewness,0.384
+13,(SI_peak - SI_pre) / (SI_final - SI_pre)_Kurtosis,0.097
+14,(SI_peak - SI_pre) / (SI_final - SI_pre)_variance,0.001
+15,(SI_peak - SI_pre) / SI_pre_min,0.0
+16,(SI_peak - SI_pre) / SI_pre_max,0.03
+17,(SI_peak - SI_pre) / SI_pre_mean,0.253
+18,(SI_peak - SI_pre) / SI_pre_10per,0.604
+19,(SI_peak - SI_pre) / SI_pre_25per,0.337
+20,(SI_peak - SI_pre) / SI_pre_50per,0.307
+21,(SI_peak - SI_pre) / SI_pre_75per,0.144
+22,(SI_peak - SI_pre) / SI_pre_90per,0.074
+23,(SI_peak - SI_pre) / SI_pre_interquartile range,0.036
+24,(SI_peak - SI_pre) / SI_pre_range,0.004
+25,(SI_peak - SI_pre) / SI_pre_meanAbsoluteDeviationFeatureValue,0.138
+26,(SI_peak - SI_pre) / SI_pre_std,0.456
+27,(SI_peak - SI_pre) / SI_pre_skewness,0.146
+28,(SI_peak - SI_pre) / SI_pre_Kurtosis,0.0
+29,(SI_peak - SI_pre) / SI_pre_variance,0.456
+30,(SI_peak - SI_pre)_min,0.002
+31,(SI_peak - SI_pre)_max,0.055
+32,(SI_peak - SI_pre)_mean,0.002
+33,(SI_peak - SI_pre)_10per,0.004
+34,(SI_peak - SI_pre)_25per,0.002
+35,(SI_peak - SI_pre)_50per,0.001
+36,(SI_peak - SI_pre)_75per,0.001
+37,(SI_peak - SI_pre)_90per,0.003
+38,(SI_peak - SI_pre)_interquartile range,0.287
+39,(SI_peak - SI_pre)_range,0.001
+40,(SI_peak - SI_pre)_meanAbsoluteDeviationFeatureValue,0.274
+41,(SI_peak - SI_pre)_std,0.176
+42,(SI_peak - SI_pre)_skewness,0.009
+43,(SI_peak - SI_pre)_Kurtosis,0.0
+44,(SI_peak - SI_pre)_variance,0.095
+45,(SI_final - SI_peak) /  SI_peak)_min,0.016
+46,(SI_final - SI_peak) /  SI_peak)_max,0.001
+47,(SI_final - SI_peak) /  SI_peak)_mean,0.005
+48,(SI_final - SI_peak) /  SI_peak)_10per,0.019
+49,(SI_final - SI_peak) /  SI_peak)_25per,0.002
+50,(SI_final - SI_peak) /  SI_peak)_50per,0.001
+51,(SI_final - SI_peak) /  SI_peak)_75per,0.001
+52,(SI_final - SI_peak) /  SI_peak)_90per,0.001
+53,(SI_final - SI_peak) /  SI_peak)_interquartile range,0.063
+54,(SI_final - SI_peak) /  SI_peak)_range,0.0
+55,(SI_final - SI_peak) /  SI_peak)_meanAbsoluteDeviationFeatureValue,0.286
+56,(SI_final - SI_peak) /  SI_peak)_std,0.23
+57,(SI_final - SI_peak) /  SI_peak)_skewness,0.0
+58,(SI_final - SI_peak) /  SI_peak)_Kurtosis,0.0
+59,(SI_final - SI_peak) /  SI_peak)_variance,0.23
